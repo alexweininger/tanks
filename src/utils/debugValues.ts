@@ -1,0 +1,1 @@
+export const debugValues: Record<string, string> = {};
